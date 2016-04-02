@@ -27,9 +27,9 @@ You first need to upload the modified bootloader Hex file. I won't give details 
 After uploading the modified bootloader, just upload my example-heartbeat.hex file using the traditionnal arduino upload way.
 
 ### What it is supposed to do
-You should see on LED13 (the orange LED on the Arduino Board) blink a bit like a Heartbeat (it is just a modified version of the famous Arduino Blink Example)
+You should see LED13 (the orange LED on the Arduino Board) blinking a bit like a Heartbeat (it is just a modified version of the famous Arduino Blink Example)
 
-To confirm that the Hex file is Encrypted, you might revert back your arduino to the original bootloader and see that the example-heartbeat.hex file won't work after upload
+To confirm that the Hex file is Encrypted, you might revert back your arduino to the original bootloader and see that the example-heartbeat.hex file doesn''t work after upload
 
 ### Conclusion
 I hope you will make it works and understand that i really want to work with you.
