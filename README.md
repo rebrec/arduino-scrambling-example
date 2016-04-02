@@ -22,7 +22,7 @@ The bootloader i have used is not the same you provided for some simple reason :
 ### How to Use 
 I hope you have an Atmega328P with you, if you don't please contact me, i will find a solution.
 
-You first need to upload the modified bootloader Hex file. I won't give details since you looks comfortable with Makefiles and C code. If you need help, again, just contact me, you can also use Github Issues to communicate with me if needed (i don't know Freelancer much, i am new here, i don't know if you have to pay to communicate with freelancers or if it's free).
+You first need to upload the modified bootloader Hex file. I won't give details since you looks comfortable with Makefiles and C code. If you need help, again, just contact me, you can also use Github Issues to communicate with me if needed (i don't know Freelancer.com much, i am new here, i don't know if you have to pay to communicate with freelancers or if it's free).
 
 After uploading the modified bootloader, just upload my example-heartbeat.hex file using the traditionnal arduino upload way.
 
@@ -38,7 +38,7 @@ I am ready to implement any improvement you might suggest :
 - increase strongness of the encryption, since the example provided can be quite easily cracked (the key is only one byte, but i will increase its size if you want)
 - ...
 
-And naturally, i am ready to deliver all to you as soon as you select me as your employer (no delay to wait, code is ready)
+And naturally, i am ready to deliver all to you as soon as you select me as your Freelancer (no delay to wait, code is ready)
 
 I hope you will like the way i tried to catch your attention (and that you will read this whole long speech ... sorry for that)
 
